@@ -1,5 +1,5 @@
 
-public class KytkinState {
+public class KytkinHarjoitus {
 
 	public static void main(String[] args) { 
 		
