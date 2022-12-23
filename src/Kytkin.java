@@ -7,3 +7,17 @@ public class Kytkin {
 	}
 
 }
+
+
+
+class KytkinState {
+	public boolean state; 
+	
+	public void turnON() {
+		turnON = true; 
+	} 
+	
+	public void turnOFF() {
+		turnOFF = false; 
+	} 
+} 
