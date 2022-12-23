@@ -23,10 +23,10 @@ class Kytkin {
 	public boolean state; 
 	
 	public void turnON() {
-		turnON = true; 
+		state = true; 
 	} 
 	
 	public void turnOFF() {
-		turnOFF = false; 
+		state = false; 
 	} 
 } 
